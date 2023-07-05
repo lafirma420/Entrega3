@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Ejercicio 02/2</title>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Titulo</th>
+      <th>Autor</th>
+      <th>Año de publicación</th>
+      <th>Enlace a Amazon</th>
+    </tr>
+    <tr>
+      <td>Me dicen sara tomate</td>
+      <td>Jean Ure</td>
+      <td>2000</td>
+      <td><a href="https://www.amazon.com.mx/Dicen-Sara-Tomate-Jean-Ure/dp/9580457751">Link</a></td>
+    </tr>
+    <tr>
+      <td>Doce cuentos Peregrinos</td>
+      <td>Gabriel Garcia Marquez</td>
+      <td>1992</td>
+      <td><a href="https://www.amazon.com/-/es/Gabriel-García-Márquez/dp/1400034949">Link</a></td>
+    </tr>
+    <tr>
+      <td>Hábitos atómicos</td>
+      <td>James Clear</td>
+      <td>2018</td>
+      <td><a href="#">Link</a></td>
+    </tr>
+  </table>
+</body>
+</html>
